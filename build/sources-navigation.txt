@@ -1,0 +1,7 @@
+https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation	U.S. Army FM 3-25.26, Map Reading and Land Navigation (Internet Archive copy)
+https://archive.org/details/fm-21-76-us-army-survival-manual	U.S. Army FM 21-76, Survival (1992), Ch. 17 Field-Expedient Water Crossings and Ch. 18 Direction Finding (Internet Archive copy)
+https://www.ngdc.noaa.gov/geomag/declination.shtml	NOAA NCEI - Magnetic Declination (Variation)
+https://www.ncei.noaa.gov/products/world-magnetic-model	NOAA NCEI - World Magnetic Model (WMM2025; used to compute the declination table)
+https://www.ready.gov/kit	Ready.gov (FEMA) - Build a Kit
+https://www.weather.gov/safety/flood-turn-around-dont-drown	National Weather Service - Turn Around Don't Drown
+https://avalanche.org/avalanche-encyclopedia/terrain/slope-characteristics/slope-angle/	Avalanche.org (American Avalanche Association) - Slope Angle

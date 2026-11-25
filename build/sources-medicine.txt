@@ -1,0 +1,108 @@
+https://medlineplus.gov/ency/patientinstructions/000534.htm	MedlinePlus (U.S. National Library of Medicine) - Storing your medicines
+https://www.fda.gov/drugs/special-features/dont-be-tempted-use-expired-medicines	U.S. FDA - Don't Be Tempted to Use Expired Medicines
+https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/expiration-dating-extension	U.S. FDA - Expiration Dating Extension (Shelf-Life Extension Program, SLEP)
+https://pubmed.ncbi.nlm.nih.gov/16721796/	Lyon RC et al. (2006), J Pharm Sci - Stability profiles of drug products extended beyond labeled expiration dates (SLEP)
+https://pubmed.ncbi.nlm.nih.gov/23045150/	Cantrell L et al. (2012), Arch Intern Med - Stability of active ingredients in long-expired prescription medications
+https://www.health.harvard.edu/staying-healthy/drug-expiration-dates-do-they-mean-anything	Harvard Health Publishing - Drug expiration dates: Do they mean anything?
+https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency	U.S. FDA - Information Regarding Insulin Storage and Switching Between Products in an Emergency
+https://pubmed.ncbi.nlm.nih.gov/10808186/	Simons FER et al. (2000), J Allergy Clin Immunol - Outdated EpiPen and EpiPen Jr autoinjectors: past their prime?
+https://pubmed.ncbi.nlm.nih.gov/30314813/	Nawarskas JJ et al. (2018), Am J Cardiol - Stability of Sublingual Nitroglycerin Tablets in Simulated Real-Life Conditions
+https://medlineplus.gov/druginfo/meds/a601086.html	MedlinePlus - Nitroglycerin Sublingual
+https://medlineplus.gov/druginfo/meds/a685001.html	MedlinePlus - Amoxicillin
+https://medlineplus.gov/druginfo/meds/a682098.html	MedlinePlus - Tetracycline
+https://www.cochrane.org/evidence/CD005083_honey-topical-treatment-wounds	Cochrane - Honey as a topical treatment for wounds (Jull AB et al., 2015)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2686636/	Simon A et al. (2009), Evid Based Complement Alternat Med - Medical Honey for Wound Care
+https://medlineplus.gov/ency/article/000666.htm	MedlinePlus - Sepsis
+https://medlineplus.gov/ency/article/000855.htm	MedlinePlus - Cellulitis
+https://medlineplus.gov/ency/article/007296.htm	MedlinePlus - Lymphangitis
+https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html	U.S. CDC - Clinical Features of Penicillin Allergy
+https://www.who.int/news-room/fact-sheets/detail/mycotoxins	World Health Organization - Mycotoxins (fact sheet)
+https://applications.emro.who.int/docs/WHOEMCSR594E-eng.pdf	WHO Regional Office for the Eastern Mediterranean - Cholera leaflet (home-made oral rehydration solution)
+https://www.ars.usda.gov/midwest-area/peoria-il/national-center-for-agricultural-utilization-research/docs/penicillin-opening-the-era-of-antibiotics	USDA Agricultural Research Service - Penicillin: Opening the Era of Antibiotics (Peoria lab)
+https://www.ars.usda.gov/oc/timeline/penicillin/	USDA Agricultural Research Service - Penicillin (research timeline)
+https://www.nobelprize.org/prizes/medicine/1945/summary/	NobelPrize.org - The Nobel Prize in Physiology or Medicine 1945 (Fleming, Chain, Florey)
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2DFAF6277CD50A07B976478D37783989/S0025727300045026a.pdf/cg-paine-and-the-earliest-surviving-clinical-records-of-penicillin-therapy.pdf	Wainwright M, Swan HT (1986), Medical History - C.G. Paine and the earliest surviving clinical records of penicillin therapy
+https://www.sheffield.ac.uk/biosciences/news/first-use-penicillin-university-sheffield-recognised-uks-best-breakthroughs-list	University of Sheffield - First use of penicillin recognised in the UK's Best Breakthroughs List
+https://en.wikipedia.org/wiki/History_of_penicillin	Wikipedia - History of penicillin (Fleming, the Oxford mouse experiment, surface culture, the Oxford unit)
+https://www.mhs.ox.ac.uk/backfromthedead/exhibition/production/index.html	Museum of the History of Science, Oxford - Back From The Dead: Penicillin production (flask surface culture, potency ring assay)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5366029/	Chain EB (1971), J R Coll Physicians Lond - Thirty Years of Penicillin Therapy
+https://bacmedia.dsmz.de/medium/130	Leibniz Institute DSMZ (MediaDive) - Czapek-Dox Agar (medium 130) composition
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3272894/	Veiga T et al. (2012), Eukaryotic Cell - Natural synthesis of penicillin G in Penicillium chrysogenum (phenylacetate side-chain precursor)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1388490/	Hillenga DJ et al. (1995), Appl Environ Microbiol - P. chrysogenum takes up penicillin G precursor phenylacetic acid
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3768827/	Nasir A et al. (2013) - Penicillin production by wild isolates of Penicillium chrysogenum (corn steep liquor, lactose, phenylacetate)
+https://www.ninds.nih.gov/health-information/disorders/reyes-syndrome	NIH NINDS - Reye's Syndrome
+https://www.mskcc.org/cancer-care/integrative-medicine/herbs/willow-bark	Memorial Sloan Kettering Cancer Center - Willow Bark (About Herbs)
+https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf	European Medicines Agency - EU herbal monograph on Salix (willow) bark
+https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf	European Medicines Agency - Assessment report on Salix (willow) bark
+https://www.cochrane.org/evidence/CD004504_herbal-medicine-low-back-pain	Cochrane - Herbal medicine for low-back pain (willow bark, capsicum)
+https://www.sciencehistory.org/education/scientific-biographies/felix-hoffmann/	Science History Institute - Felix Hoffmann (salicylic acid, willow, aspirin)
+https://medlineplus.gov/druginfo/meds/a682878.html	MedlinePlus - Aspirin
+https://medlineplus.gov/druginfo/meds/a681004.html	MedlinePlus - Acetaminophen
+https://medlineplus.gov/druginfo/meds/a682159.html	MedlinePlus - Ibuprofen
+https://www.nccih.nih.gov/health/feverfew	NIH NCCIH - Feverfew
+https://www.nccih.nih.gov/health/ginger	NIH NCCIH - Ginger
+https://www.nccih.nih.gov/health/european-elder	NIH NCCIH - European Elder (elderberry)
+https://www.nccih.nih.gov/health/cranberry	NIH NCCIH - Cranberry
+https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/aristolochic-acids	U.S. National Cancer Institute - Aristolochic Acids (wild ginger / Asarum warning)
+https://www.poison.org/articles/can-poison-hemlock-be-deadly-184	National Capital Poison Center (Poison Control) - Can poison hemlock be deadly?
+https://medlineplus.gov/ency/article/001384.htm	MedlinePlus - Infant botulism (honey warning)
+https://edu.rsc.org/resources/the-preparation-of-2-hydroxybenzoic-acid-16-18-years/4017310.article	Royal Society of Chemistry (Education) - The preparation of 2-hydroxybenzoic acid (salicylic acid from oil of wintergreen)
+https://chem.libretexts.org/Ancillary_Materials/Laboratory_Experiments/Wet_Lab_Experiments/Organic_Chemistry_Labs/Experiments/1%3A__Synthesis_of_Aspirin_(Experiment)	LibreTexts (Chemistry) - Synthesis of Aspirin (undergraduate experiment)
+https://utsa.pressbooks.pub/matta1014/chapter/experiment-8-synthesis-of-aspirin/	University of Texas at San Antonio - Elementary Organic & Biochemistry Lab Manual: Synthesis of Aspirin
+https://www.fs.usda.gov/database/feis/plants/tree/salnig/all.html	USDA Forest Service - Fire Effects Information System: Salix nigra (black willow)
+https://www.ncbi.nlm.nih.gov/books/NBK507916/	StatPearls (NCBI) - Dakin Solution (sodium hypochlorite wound antiseptic; strengths and use)
+https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html	U.S. CDC - Cleaning and Disinfecting with Bleach (household bleach dilutions; never mix with other cleaners)
+https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-e.html	U.S. CDC - Appendix E: Chlorine disinfectant solution preparation (dilution formulas for liquid and powder bleach)
+https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html	U.S. CDC - Chemical Disinfectants (hypochlorite and alcohol; chlorine gas hazard; why 60-90% alcohol is optimal)
+https://www.ncbi.nlm.nih.gov/books/NBK144054/	WHO Guidelines on Hand Hygiene in Health Care - WHO-recommended handrub formulations (ethanol 80% / isopropanol 75%)
+https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water	U.S. EPA - Emergency Disinfection of Drinking Water (bleach, iodine and calcium hypochlorite doses)
+https://www.cdc.gov/water-emergency/about/index.html	U.S. CDC - How to Make Water Safe in an Emergency (bleach and iodine drops; boiling)
+https://www.fda.gov/food/laboratory-methods-food/bam-r40-lugols-iodine-solution	U.S. FDA BAM R40 - Lugol's Iodine Solution (5% iodine + 10% potassium iodide)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7951395/	Lachapelle JM et al. (2013) - Povidone-iodine: use in hand disinfection, skin preparation and antiseptic irrigation
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3468637/	Pitt D, Aubin JM (2012), Can J Surg - Joseph Lister: father of modern surgery (carbolic acid antisepsis)
+https://www.ncbi.nlm.nih.gov/books/NBK542311/	StatPearls (NCBI) - Phenol Toxicity (carbolic-acid burns and systemic poisoning)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8735925/	Beck C (1919), reprinted - Wartime antiseptics applied to civil surgery (chlorinated lime, Dakin, Semmelweis history)
+https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02	World Health Organization - WHO Model List of Essential Medicines (the core list framing)
+https://www.ncbi.nlm.nih.gov/books/NBK500033/	StatPearls (NCBI) - Crystalloid Solutions in Intravenous Fluid Therapy (normal saline, Ringer's composition)
+https://www.ncbi.nlm.nih.gov/books/NBK539881/	StatPearls (NCBI) - Lidocaine (amide local anaesthetic; mechanism and maximum doses)
+https://openstax.org/books/organic-chemistry/pages/18-2-preparing-ethers	OpenStax Organic Chemistry 18.2 - Preparing Ethers (acid-catalysed dehydration of ethanol to diethyl ether)
+https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ether	1911 Encyclopaedia Britannica - Ether (manufacture from alcohol + sulfuric acid at 140-145 C; explosive vapour)
+https://www.chm.bris.ac.uk/motm/diethyl-ether/etherh.htm	University of Bristol, Molecule of the Month - Diethyl ether (Cordus, Long and Morton; anaesthesia history)
+https://www.ncbi.nlm.nih.gov/books/NBK604204/	StatPearls (NCBI) - Chloroform Toxicity (cardiac and liver toxicity)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5792834/	Snow J (1848), reprinted - On the Fatal Cases of Inhalation of Chloroform (Hannah Greener; dilution and dosing)
+https://ecddrepository.org/en/ketamine	WHO Expert Committee on Drug Dependence - Ketamine (essential anaesthetic; not recommended for international control)
+https://www.nobelprize.org/prizes/medicine/1939/domagk/biographical/	NobelPrize.org - Gerhard Domagk biographical (Prontosil and the first sulfonamide)
+https://wwwnc.cdc.gov/eid/article/25/3/ET-2503_article	U.S. CDC Emerging Infectious Diseases - Etymologia: Streptomycin (Schatz, Waksman, 1943)
+https://www.fda.gov/animal-veterinary/animal-health-literacy/ornamental-fish-drugs-and-you	U.S. FDA - Ornamental Fish Drugs and You (fish/vet antibiotics are not for human use)
+https://iris.who.int/server/api/core/bitstreams/88bf11a5-93b6-4d6b-bdaa-856b46c8ed3c/content	World Health Organization (2023) - Consolidated guidelines for prevention, diagnosis and treatment of postpartum haemorrhage (oxytocin, carbetocin, misoprostol, tranexamic acid)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6891248/	Shakur-Still H et al. (2018) - Tranexamic acid for post-partum haemorrhage: what, who and when (WOMAN trial)
+https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/steam-sterilization-cycle-times.html	U.S. CDC - Minimum cycle times for steam sterilization (121 C and 132 C wrapped instruments)
+https://www.facs.org/media-center/press-releases/2024/learn-how-to-save-a-life-with-3-steps-during-national-stop-the-bleed-month/	American College of Surgeons - Stop the Bleed: the three steps (pressure, pack, tourniquet)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9067174/	Stein C et al. (2022) - Life cycle of medical oxygen from production to consumption (PSA concentrators, electrolysis)
+https://www.nzic.org.nz/unsecure_files/book/1E.pdf	New Zealand Institute of Chemistry - The Manufacture of Hydrogen Peroxide (anthraquinone process)
+https://www.oxfamwash.org/wp-content/uploads/WHO-calcium-hypochlorite-fs2-19.pdf	WHO/Oxfam WASH fact sheet - Calcium hypochlorite (HTH): storage and use
+https://blogs.washplus.org/drinkingwaterupdates/wp-content/uploads/2014/10/lantagne-make_chlorine2014.pdf	Lantagne D / WASHplus - Methods to make hypochlorite (chlorine) solution for disinfection
+https://www.susana.org/_resources/documents/default/3-4180-7-1617200596.pdf	SuSanA - On-site sodium hypochlorite generation (electro-chlorination of brine)
+https://public.websites.umich.edu/~chem216/216%20S11-Expt%203.pdf	University of Michigan Chem 216 - Preparation of Benzocaine (Fischer esterification of PABA)
+https://www.cerritos.edu/academics/divisions/sem/chemistry/chem_212/Documents/Lab/10_lidocaine.pdf	Cerritos College Chem 212 - Synthesis of Lidocaine (two-step chloroacetylation then amination)
+https://www.diva-portal.org/smash/get/diva2:1375278/FULLTEXT01.pdf	Flening et al. - Synthesis of Lidocaine Revisited (greener undergraduate procedure)
+https://glaserr.missouri.edu/vitpub/teaching/3700s18/Opioids-topic/Part-0_ed083p1816.pdf	Lemke / J. Chem. Educ. - Chemical Aspects of Local and Regional Anesthesia (procaine Einhorn route, lidocaine schemes)
+https://en.wikipedia.org/wiki/Procaine	Wikipedia - Procaine (Einhorn synthesis via p-nitrobenzoic acid; Novocaine history)
+https://www2.chem.wisc.edu/deptfiles/genchem/Chm346/pdfs/A00.Sulfanilamideexptpdf.pdf	University of Wisconsin-Madison - Synthesis of Sulfanilamide (chlorosulfonation, amidation, hydrolysis)
+https://theochem.mercer.edu/labdocs/chm222/Sulfadrug16.pdf	Mercer University - Synthesis of a Sulfa Drug (sulfanilamide, chlorosulfonic acid safety and quantities)
+https://chem.libretexts.org/Ancillary_Materials/Laboratory_Experiments/Wet_Lab_Experiments/Organic_Chemistry_Labs/Experiments/2%3A__Synthesis_of_Acetaminophen_(Experiment)	LibreTexts - Synthesis of Acetaminophen (acetylation of p-aminophenol; recrystallisation; m.p. 169-170.5 C)
+https://uwaterloo.ca/racicot-organic-chemistry-lab/sites/default/files/uploads/documents/chemlabdays_tylenol.pdf	University of Waterloo - Synthesis of Acetaminophen (Tylenol) procedure
+https://en.wikipedia.org/wiki/Kolbe%E2%80%93Schmitt_reaction	Wikipedia - Kolbe-Schmitt reaction (sodium phenoxide + CO2 under pressure to salicylic acid)
+https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Quinine	1911 Encyclopaedia Britannica - Quinine (extraction from cinchona bark; lime, solvent, sulfuric acid, crystallisation)
+https://patents.google.com/patent/WO2011161691A1/en	Patent WO2011161691A1 - Direct preparation of quinine from cinchona bark (lime-toluene extraction procedure)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6535566/	Ban TA (2019) - Mildred Rebstock: chemist who synthesized chloramphenicol (first fully synthetic antibiotic)
+https://www.ncbi.nlm.nih.gov/books/NBK526253/	StatPearls (NCBI) - Chloramphenicol (mechanism, uses, aplastic anaemia / grey baby warnings)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Catalysis/Examples/Examples_of_Catalysis/2._Examples_of_Catalysis_in_the_Inorganic_Chemical_Industry	LibreTexts - Catalysis in the inorganic chemical industry (contact process V2O5; Ostwald HNO3; Haber)
+https://en.wikipedia.org/wiki/Chloralkali_process	Wikipedia - Chloralkali process (electrolysis of brine to NaOH, chlorine, hydrogen)
+https://nopr.niscpr.res.in/bitstream/123456789/22707/1/IJCT%2010%281%29%2099-112.pdf	Kiefer / IJCT - Sodium carbonate: from natural resources to Leblanc and back (Leblanc and Solvay processes)
+https://en.wikipedia.org/wiki/Haber_process	Wikipedia - Haber process (N2 + 3H2 over promoted iron; pressures and temperatures; history)
+https://nopr.niscpr.res.in/bitstream/123456789/22953/1/IJCT%208%286%29%20518-526.pdf	IJCT - The History of Iodine from discovery to commodity (kelp ash and Chilean caliche routes)
+https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/35/2/35_2_138/_pdf/-char/en	Journal of Synthetic Organic Chemistry Japan - Development in the manufacturing process of phenol (coal tar and cumene)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8802620/	Sims EK et al. (2021) - 100 years of insulin: past, present and future (Banting & Best; recombinant insulin)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3046107/	Rao / Catecholamines 101 (PMC) - history of adrenaline (Takamine isolation 1901; Stolz synthesis)
+https://www.nobelprize.org/prizes/chemistry/1955/vigneaud/facts/	NobelPrize.org - Vincent du Vigneaud (first synthesis of oxytocin, a peptide hormone, 1953)

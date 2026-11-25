@@ -1,0 +1,38 @@
+https://www.cdc.gov/water-emergency/about/index.html	CDC – How to Make Water Safe in an Emergency (boiling, bleach, tablets)
+https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html	CDC – How to Create an Emergency Water Supply
+https://www.cdc.gov/water-emergency/about/cistern-safety-and-disasters-before-during-and-after.html	CDC – Cistern Safety and Disasters
+https://www.cdc.gov/healthywater/drinking/travel/backcountry_water_treatment.html	CDC – Water Treatment Options When Hiking, Camping, or Traveling
+https://www.cdc.gov/drinking-water/prevention/about-choosing-home-water-filters.html	CDC – About Choosing Home Water Filters
+https://www.cdc.gov/naegleria/about/index.html	CDC – Naegleria fowleri Infections
+https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water	EPA – Emergency Disinfection of Drinking Water (6% / 8.25% bleach table, calcium hypochlorite)
+https://www.epa.gov/privatewells	EPA – Private Drinking Water Wells
+https://www.epa.gov/cyanohabs	EPA – Cyanobacterial Harmful Algal Blooms
+https://www.ready.gov/water	Ready.gov (FEMA) – Water
+https://irp.fas.org/doddir/army/fm21-76.pdf	U.S. Army FM 21-76, Survival (1992)
+https://www.who.int/publications/i/item/9789240045064	WHO – Guidelines for Drinking-water Quality, 4th ed. incl. 1st & 2nd addenda
+https://www.sodis.ch/methode/anwendung/index_EN.html	SODIS (Eawag) – How to use the SODIS method
+https://www.twdb.texas.gov/publications/brochures/conservation/doc/RainwaterHarvestingManual_3rdedition.pdf	Texas Water Development Board – Texas Manual on Rainwater Harvesting, 3rd ed.
+https://extension.psu.edu/drilling-a-new-well	Penn State Extension – Drilling a New Well (siting and setbacks)
+https://extension.psu.edu/sanitary-water-well-construction	Penn State Extension – Sanitary Water Well Construction
+https://extension.psu.edu/shock-chlorination-of-wells-and-springs	Penn State Extension – Shock Chlorination of Wells and Springs
+https://extension.psu.edu/spring-development-and-protection	Penn State Extension – Spring Development and Protection
+https://www.usgs.gov/mission-areas/water-resources/science/arsenic-and-drinking-water	USGS – Arsenic and Drinking Water
+https://www.usgs.gov/mission-areas/water-resources/science/saltwater-intrusion	USGS – Saltwater Intrusion
+https://www.canada.ca/en/health-canada/services/environment/drinking-water/well.html	Health Canada – Well water and your health
+https://www.epa.gov/watersense/how-we-use-water	EPA WaterSense – How We Use Water (household use)
+https://agrilifeextension.tamu.edu/asset-external/rainwater-harvesting-system-planning/	Texas A&M AgriLife Extension – Rainwater Harvesting: System Planning
+https://rainwaterharvesting.tamu.edu/files/2011/05/gi-366_2021994.pdf	Texas A&M AgriLife – Harvesting, Storing, and Treating Rainwater for Domestic Use (GI-366)
+https://rainwaterharvesting.tamu.edu/tank-material/	Texas A&M AgriLife – Rainwater Harvesting: Tank Material
+https://extension.psu.edu/resources-for-water-well-spring-and-cistern-owners	Penn State Extension – Resources for Well, Spring, and Cistern Owners (incl. Rainwater Cisterns: Design, Construction, and Treatment)
+https://www.cdc.gov/drinking-water/about/collecting-rainwater-and-your-health-an-overview.html	CDC – Collecting Rainwater and Your Health
+https://www.epa.gov/sites/default/files/2015-09/documents/epa816r03002_0.pdf	EPA – Cross-Connection Control Manual (EPA 816-R-03-002)
+https://epubs.iapmo.org/2024/UPC/index.html	IAPMO – 2024 Uniform Plumbing Code (read online; relief valves, cross-connections)
+https://www.amtrol.com/welltanksupport/	Amtrol – Well tank support: pre-charge 2 psi below cut-in
+https://www.amtrol.com/wp-content/uploads/2025/08/9015-868-MC10185-07_25-WXT-IO-manual.pdf	Amtrol – Well-X-Trol Installation and Operation Manual
+https://redlionproducts.com/media/42975/106906101_rl-swj_manual-manuel-08-09-16.pdf	Red Lion – Shallow Well Jet Pump Manual (25 ft suction limit, priming, foot valves)
+https://www.pentair.com/content/dam/extranet/web/nam/shurflo/manuals/911-1008-4008-rv-by-pass-pump-iom.pdf	Pentair SHURflo – 4008 RV Fresh Water Pump Installation Manual
+https://www.ircwash.org/sites/default/files/217-80FE-822.pdf	IRC – Ferrocement Water Tanks: construction manual
+https://www.ircwash.org/sites/default/files/TB36-1993-Ferrocement.pdf	IRC – Ferrocement technical brief (curing and construction)
+https://www1.eere.energy.gov/solar/pdfs/34279.pdf	U.S. DOE – A Consumer's Guide: Heat Your Water with the Sun
+https://www.osha.gov/sites/default/files/publications/OSHA3286.pdf	OSHA – Using Portable Generators Safely
+https://www.cpsc.gov/s3fs-public/5123_SafetyAlert_PortableGenerators_102021_0.pdf	CPSC – Portable Generator Safety Alert

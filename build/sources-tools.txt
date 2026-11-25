@@ -1,0 +1,37 @@
+https://abana.org/	Artist-Blacksmith's Association of North America (ABANA) - education, affiliates, safety
+https://www.foxfire.org/product/foxfire-5/	Foxfire 5 - Ironmaking, blacksmithing, flintlock rifles (The Foxfire Fund)
+https://www.foxfire.org/	The Foxfire Fund - Appalachian traditional skills books and archive
+https://www.fs.usda.gov/t-d/php/library_card.php?p_num=1823+2812P	USDA Forest Service - One Moving Part: The Forest Service Ax Manual (Beckley, 2019/2020)
+https://www.fs.usda.gov/t-d/pubs/pdfpubs/pdf18232812P/Part01_Intro.pdf	USDA Forest Service - One Moving Part, Ch. 1 Introduction (PDF)
+https://www.fhwa.dot.gov/environment/recreational_trails/publications/fs_publications/99232823/	USDA Forest Service - An Ax to Grind: A Practical Ax Manual (Weisgerber & Vachowski, 1999)
+https://www.fs.usda.gov/t-d/pubs/pdfpubs/pdf77712508/pdf77712508dpi72.pdf	USDA Forest Service - Crosscut Saw Manual (Miller, rev. 2003): filing, setting, raker depth
+https://research.fs.usda.gov/treesearch/62200	USDA Forest Products Laboratory - Wood Handbook: Wood as an Engineering Material (2021)
+https://extension.illinois.edu/sites/default/files/garden_tool_maintenance.pdf	University of Illinois Extension - Garden Tool Maintenance (cleaning, rust, sharpening, handles)
+https://hort.extension.wisc.edu/articles/maintaining-lawn-and-garden-tools/	University of Wisconsin-Madison Extension - Maintaining Lawn and Garden Tools
+https://ucanr.edu/site/mg-sonoma/garden-tool-maintenance	UC Master Gardener Program (Sonoma) - Garden Tool Maintenance
+https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=1412&context=mafes-bulletins	Mississippi Agricultural Experiment Station Bulletin 337 - Farm Mechanics (farm forge, homemade anvil, temper colors)
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc9_524.pdf	U.S. Army TC 9-524 - Fundamentals of Machine Tools (metal identification, spark test, heat treatment)
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc9_237.pdf	U.S. Army TC 9-237 - Welding Theory and Application (arc welding, metal ID, safety)
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN12086_ATP%203-50x21%20FINAL%20WEB%202.pdf	U.S. Army ATP 3-50.21 - Survival (field-expedient tools, cordage, stone and bone tools)
+https://www.doitpoms.ac.uk/tlplib/microstructural_exam/steels.php	University of Cambridge DoITPoMS - Steels: microstructure, quenching, martensite
+https://www.phase-trans.msm.cam.ac.uk/abstracts/L10.pdf	University of Cambridge (Bhadeshia) - Lecture 10: Ferrous Alloys (hardening and tempering)
+https://www.fao.org/4/x5328e/x5328e00.htm	FAO - Simple Technologies for Charcoal Making (Forestry Paper 41)
+https://www.fao.org/4/x5328e/x5328e06.htm	FAO - Simple Technologies for Charcoal Making, Ch. 5: Earth pits
+https://www.fao.org/4/x5328e/x5328e07.htm	FAO - Simple Technologies for Charcoal Making, Ch. 6: Earth mounds
+https://www.fao.org/4/X5555E/x5555e03.htm	FAO - Industrial Charcoal Making, Ch. 2: Wood carbonisation and its products (retorts, yields)
+https://www.osha.gov/sites/default/files/publications/OSHA_FS-3647_WELDING.pdf	OSHA Fact Sheet - Controlling Hazardous Fume and Gases during Welding (metal fume fever, CO)
+https://www.osha.gov/welding-cutting-brazing	OSHA - Welding, Cutting and Brazing (hazards and standards)
+https://www.osha.gov/eye-face-protection	OSHA - Eye and Face Protection
+https://www.osha.gov/sites/default/files/publications/carbonmonoxide-factsheet.pdf	OSHA Fact Sheet - Carbon Monoxide Poisoning
+https://www.cdc.gov/niosh/npg/npgd0675.html	CDC/NIOSH Pocket Guide to Chemical Hazards - Zinc oxide (metal fume fever)
+https://www.nj.gov/health/eoh/rtkweb/documents/fs/2037.pdf	New Jersey Dept. of Health - Zinc Oxide Hazardous Substance Fact Sheet (galvanized welding)
+https://aws-p-001-delivery.sitecorecontenthub.cloud/api/public/content/Fact-Sheet-No.25	American Welding Society - Safety & Health Fact Sheet No. 25: Metal Fume Fever
+https://www.cdc.gov/carbon-monoxide/about/index.html	CDC - Carbon Monoxide Poisoning basics
+https://www.nfpa.org/education-and-research/home-fire-safety/carbon-monoxide	NFPA - Carbon Monoxide safety
+https://www.redcross.org/take-a-class/resources/learn-first-aid/burns	American Red Cross - First aid for burns
+https://www.nps.gov/yell/learn/historyculture/obsidiancliff.htm	National Park Service - Obsidian Cliff, Yellowstone (protected; no collecting)
+https://www.nps.gov/alfl/learn/historyculture/index.htm	National Park Service - Alibates Flint Quarries National Monument, history
+https://www.nps.gov/knri/index.htm	National Park Service - Knife River Indian Villages NHS (Knife River flint trade)
+https://www.ohiohistory.org/visit/browse-historical-sites/flint-ridge-ancient-quarries-nature-preserve/	Ohio History Connection - Flint Ridge Ancient Quarries & Nature Preserve (Vanport flint)
+https://www.blm.gov/sites/default/files/docs/2024-07/orwa-rock-collect-guide.pdf	BLM Oregon/Washington - Rock Collecting Guide (Glass Buttes obsidian rules)
+https://www.mdpi.com/2075-163X/15/6/629	Minerals (2025) - Sierra de las Navajas (Pachuca) obsidian deposit, Hidalgo, Mexico

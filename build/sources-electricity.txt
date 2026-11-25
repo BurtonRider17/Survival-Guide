@@ -1,0 +1,30 @@
+https://docs.nlr.gov/docs/fy01osti/29065.pdf	U.S. DOE (EERE/NREL) - Small Hydropower Systems fact sheet (DOE Energy Saver micro-hydro guide; head x flow / 10 rule)
+https://www1.eere.energy.gov/water/pdfs/doewater-10107-vol.1-pt1.pdf	U.S. DOE - Microhydropower Handbook, Vol. 1, Part 1 (site evaluation, head and flow)
+https://www1.eere.energy.gov/water/pdfs/doewater-10107-vol.1-pt2.pdf	U.S. DOE - Microhydropower Handbook, Vol. 1, Part 2 (penstock, intake, installation)
+https://publications.gc.ca/site/eng/9.688664/publication.html	Natural Resources Canada - Micro-Hydropower Systems: A Buyer's Guide (2004)
+https://www.energy.gov/sites/prod/files/2013/12/f5/small_wind_guide.pdf	U.S. DOE - Small Wind Electric Systems: A U.S. Consumer's Guide (AEO formula, siting)
+https://windexchange.energy.gov/maps-data	U.S. DOE WINDExchange - wind resource maps and data
+https://pvwatts.nrel.gov/	NREL PVWatts solar production calculator
+https://nsrdb.nrel.gov/	NREL National Solar Radiation Database (peak sun hours)
+https://afdc.energy.gov/files/u/publication/biodiesel_handling_use_guide.pdf	NREL/DOE - Biodiesel Handling and Use Guide (storage, cold flow, materials)
+https://www.journeytoforever.org/biodiesel_make.html	Journey to Forever - Make your own biodiesel
+https://www.journeytoforever.org/biodiesel_make2.html	Journey to Forever - Make your own biodiesel, page 2 (titration, lye quantities, KOH)
+https://www.journeytoforever.org/biodiesel_yield.html	Journey to Forever - Vegetable oil yields by crop
+https://www.ncat.org/publication/biodiesel-diy-production-basics/	NCAT/ATTRA - Biodiesel: Do-It-Yourself Production Basics
+https://farm-energy.extension.org/biodiesel-production-principles-and-processes/	eXtension Farm Energy (university extension) - Biodiesel Production Principles and Processes
+https://farm-energy.extension.org/economics-of-small-scale-biodiesel-production/	eXtension Farm Energy - Economics of Small-Scale Biodiesel Production (methanol use)
+https://springboardbiodiesel.com/library/titration-methodologies	Springboard Biodiesel - Titration methodologies (NaOH/KOH base amounts)
+https://www.uvm.edu/extension/nwcrops	University of Vermont Extension Northwest Crops & Soils - on-farm oilseed and biodiesel research
+https://www.canolacouncil.org/	Canola Council of Canada - canola production
+https://www.osti.gov/biblio/5099523	FEMA/ORNL (1989) - Construction of a Simplified Wood Gas Generator for Fueling Internal Combustion Engines in a Petroleum Emergency
+https://www.cdc.gov/carbon-monoxide/about/	CDC - Carbon Monoxide Poisoning Basics (generators 20+ ft from home)
+https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html	CDC - Protect yourself during a power outage
+https://www.cdc.gov/niosh/npg/npgd0397.html	NIOSH Pocket Guide - Methyl alcohol (methanol)
+https://www.cdc.gov/niosh/npg/npgd0565.html	NIOSH Pocket Guide - Sodium hydroxide
+https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70	NFPA 70 National Electrical Code (Art. 690 PV, 706 energy storage, 702 standby generators)
+https://batteryuniversity.com/	Battery University - lead-acid and lithium battery care
+https://www.scoraigwind.co.uk/	Hugh Piggott - small wind turbine building resources
+https://practicalaction.org/	Practical Action - micro-hydro and appropriate-technology technical briefs
+https://www.solarcookers.org/	Solar Cookers International
+https://www.epa.gov/burnwise	U.S. EPA Burn Wise - safe, efficient wood heating
+https://www.ferc.gov/industries-data/hydropower	FERC - hydropower licensing and exemptions (U.S. permits)

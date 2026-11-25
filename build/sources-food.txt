@@ -1,0 +1,23 @@
+https://nchfp.uga.edu/resources/category/usda-guide	USDA Complete Guide to Home Canning (National Center for Home Food Preservation)
+https://nchfp.uga.edu/how/dry/jerky	NCHFP – Drying Jerky
+https://nchfp.uga.edu/how/ferment	NCHFP – Fermenting (sauerkraut, pickles)
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart	USDA FSIS – Safe Minimum Internal Temperature Chart
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-fish/jerky	USDA FSIS – Jerky and Food Safety
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food	USDA FSIS – Shelf-Stable Food Safety (canned goods, MRE, jerky shelf life)
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f	USDA FSIS – "Danger Zone" (40°F–140°F)
+https://www.cdc.gov/botulism/prevention/home-canned-foods.html	CDC – Home-Canned Foods and Botulism
+https://www.cdc.gov/trichinellosis/about/index.html	CDC – About Trichinellosis
+https://www.cdc.gov/tularemia/about/index.html	CDC – About Tularemia
+https://www.cdc.gov/brucellosis/about/index.html	CDC – About Brucellosis
+https://www.cdc.gov/chronic-wasting/about/index.html	CDC – About Chronic Wasting Disease
+https://www.ready.gov/food	Ready.gov (FEMA) – Food
+https://irp.fas.org/doddir/army/fm21-76.pdf	U.S. Army FM 21-76, Survival (1992)
+https://www.dietaryguidelines.gov/	USDA/HHS – Dietary Guidelines for Americans
+https://extension.usu.edu/preparedness/research/shelf-life-of-food-storage	Utah State University Extension – Shelf Life of Food Storage
+https://www.uaf.edu/ces/food/foodpreservation/	University of Alaska Fairbanks Cooperative Extension – Food Preservation
+https://extension.colostate.edu/topic-areas/nutrition-food-safety-health/high-altitude-food-preparation-p41/	Colorado State University Extension – High Altitude Food Preparation
+https://extension.umaine.edu/publications/4198e/	University of Maine Extension – Facts on Fiddleheads
+https://plants.usda.gov/	USDA-NRCS PLANTS Database
+https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/EMB/Shellfish/Annual-Mussel-Quarantine.aspx	California Dept. of Public Health – Annual Mussel Quarantine
+https://namyco.org/	North American Mycological Association
+https://commons.wikimedia.org/	Wikimedia Commons (photo sources; see Photo Credits page for individual files)

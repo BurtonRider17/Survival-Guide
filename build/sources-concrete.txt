@@ -1,0 +1,52 @@
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN33491-TM_3-34.44-001-WEB-3.pdf	U.S. Army TM 3-34.44 (formerly FM 5-428) - Concrete and Masonry (2012, incl. C1)
+https://www.marines.mil/portals/1/MCRP%203-17.7D%20z.pdf	U.S. Army FM 5-428 / MCRP 3-17.7D - Concrete and Masonry (1998 original)
+https://www.cement.org/cement-concrete/how-cement-is-made/	Portland/American Cement Association - How Cement Is Made (kiln ~2,700 F)
+https://www.cement.org/cement-concrete/cement-concrete-faq/	Portland/American Cement Association - Cement and Concrete FAQ
+https://www.nrmca.org/wp-content/uploads/2021/01/11pr.pdf	NRMCA Concrete in Practice CIP 11 - Curing In-Place Concrete
+https://www.nrmca.org/wp-content/uploads/2021/01/27pr.pdf	NRMCA Concrete in Practice CIP 27 - Cold Weather Concreting
+https://www.nrmca.org/wp-content/uploads/2021/01/12pr.pdf	NRMCA Concrete in Practice CIP 12 - Hot Weather Concreting
+https://www.fhwa.dot.gov/pavement/t504037.cfm	FHWA Technical Advisory T 5040.37 - Recycled Concrete as Aggregate
+https://www.fhwa.dot.gov/pavement/concrete/pubs/hif22020.pdf	FHWA Tech Brief HIF-22-020 - Recycled Concrete Aggregate in Concrete Paving Mixtures
+https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/	Clemson Cooperative Extension - Soil Texture Analysis: The Jar Test
+https://landresources.montana.edu/soilfertility/html/SoilTextureJarTest.html	Montana State University Extension - Soil Texture Jar Test
+https://pubs.usgs.gov/of/2014/1156/	USGS Open-File Report 2014-1156 - Karst in the United States (carbonate rock map)
+https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-pumice.pdf	USGS Mineral Commodity Summaries 2026 - Pumice and Pumicite
+https://geology.utah.gov/map-pub/survey-notes/pozzolan-ancient-technology-future-resource/	Utah Geological Survey - Pozzolan: Ancient Technology, Future Resource
+https://pubs.usgs.gov/circ/1951/0128/report.pdf	USGS Circular 128 - Pumice Deposits of the Klamath (pozzolan potential)
+https://www.science.org/doi/10.1126/sciadv.add1602	Seymour et al. (2023), Science Advances - Hot mixing: durability of ancient Roman concrete
+https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106	MIT News (2023) - Why was Roman concrete so durable? (lime clasts)
+https://doi.org/10.2138/am-2017-5993CCBY	Jackson et al. (2017), American Mineralogist - Phillipsite and Al-tobermorite in Roman marine concrete
+https://www.nps.gov/orgs/1739/upload/preservation-brief-02-repointing.pdf	National Park Service Preservation Brief 2 - Repointing Mortar Joints (lime mortar)
+https://www.buildinglimesforumireland.com/_files/ugd/1c8e6a_c5bd243aca194193ad4601d4da6142ca.pdf	Building Limes Forum Ireland - Hot-mixed Lime Mortars (incl. slaking safety)
+https://www.buildinglimesforum.org.uk/	Building Limes Forum (UK) - lime research and guidance
+https://www.engineshed.scot/building-advice/building-materials/lime/	Historic Environment Scotland (Engine Shed) - Lime as a building material
+https://practicalactionpublishing.com/book/2848/download?type=download	Practical Action - A Small Lime Kiln for Batch and Continuous Firing (Dedza kiln)
+https://practicalactionpublishing.com/book/2730/download?type=download	Practical Action - How to Build a Small Vertical Shaft Lime Kiln
+https://practicalactionpublishing.com/book/2790/download?type=download	Practical Action - Lime Kiln Designs (calcining ~900-1000+ C; 1.75 kg stone per kg lime)
+https://practicalactionpublishing.com/book/3059/download?type=download	Practical Action - Alternatives to Portland Cement
+https://rachel.worldpossible.org/mods/en-practical_action/Construction/Cement%20and%20binders/KnO-100101_Pozzolanas%20-%20Calcined%20clay%20and%20shales%20and%20volcanic%20ash.pdf	Practical Action - Pozzolanas: Calcined Clay and Shales, Volcanic Ash
+https://library.snls.org.sz/practical_action/Construction/Cement%20and%20binders/KnO-100100_Pozzolanas%20-%20Rice%20husk%20ash%20pulverised%20fuel%20ash.pdf	Practical Action - Pozzolanas: Rice Husk Ash, Pulverised Fuel Ash
+https://practicalactionpublishing.com/book/3069/download?type=download	Practical Action - Ten Rules for Energy Efficient, Cost Effective Brick Firing
+https://practicalactionpublishing.com/book/2922/download?type=download	Practical Action - Sustainable Small Scale Brick Production: A Question of Energy
+https://practicalactionpublishing.com/book/2950/download?type=download	Practical Action - Assessing the Technical Problems of Brick Production
+https://www.gobrick.com/media/file/30-bonds-and-patterns-in-brickwork.pdf	Brick Industry Association Technical Note 30 - Bonds and Patterns in Brickwork
+https://www.gobrick.com/resources/technical-notes	Brick Industry Association - Technical Notes index (mortars TN 8, salvaged brick TN 15)
+https://wiki.opensourceecology.org/images/3/3d/AVEI_production_and_use_of_compressed_stabalized_earth_blocks.pdf	Auroville Earth Institute - Production and Use of Compressed Stabilised Earth Blocks (Code of Practice)
+https://rexresearch1.com/HouseConstructionLibrary/CompressedEarthBlockManualProduction.pdf	CRATerre-EAG / GTZ (Rigassi 1995) - Compressed Earth Blocks: Manual of Production
+https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1146&context=agexperimentsta_circ	South Dakota State Agricultural Experiment Station Circular 149 - Rammed Earth Walls
+https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1006&context=agexperimentsta_rammed-earth	USDA Farmers' Bulletin 1500 - Rammed Earth Walls for Buildings
+https://pdf.usaid.gov/pdf_docs/PNAAE813.pdf	USAID - Earth construction handbook (adobe, rammed earth, soil-cement, stabilization tests)
+https://www.srca.nm.gov/parts/title14/14.007.0004.pdf	New Mexico Earthen Building Materials Code 14.7.4 NMAC (adobe, rammed earth, CEB)
+https://www.engineeringforchange.org/wp-content/uploads/2016/06/Earthbag_Building-The_Tools_Tricks_and_Techniques.pdf	Hunter & Kiffmeyer - Earthbag Building: The Tools, Tricks and Techniques
+https://www.huduser.gov/Publications/PDF/FPSFguide.pdf	HUD / NAHB Research Center - Design Guide for Frost-Protected Shallow Foundations
+https://repository.lboro.ac.uk/articles/chapter/WEDC_Technical_Brief_No_4_Lining_a_hand_dug_well/28351235	WEDC Technical Brief No. 4 - Lining a Hand Dug Well (concrete caisson rings)
+https://bdd.pseau.org/outils/ouvrages/appropriate_design_choice_hand_dug_wells_choice_of_technology_and_construction_manual_2001.pdf	Hand Dug Wells: Choice of Technology and Construction Manual (2001)
+https://www.ircwash.org/sites/default/files/217-80MA.pdf	WHO/IRC (1980) - Manual for the Construction of Ferrocement Water Tanks
+https://www.osha.gov/sites/default/files/publications/OSHA-3351-PORTLAND-CEMENT.pdf	OSHA 3351 - Preventing Skin Problems from Working with Portland Cement
+https://www.osha.gov/publications/bytopic/silica,-crystalline	OSHA - Crystalline Silica publications (wet cutting, dust control)
+https://www.osha.gov/sites/default/files/publications/OSHA_FS-3629.pdf	OSHA Fact Sheet - Silica: Jackhammers and Handheld Chipping Tools
+https://www.cdc.gov/niosh/npg/npgd0093.html	CDC/NIOSH Pocket Guide - Calcium Oxide (quicklime)
+https://cameochemicals.noaa.gov/report?key=CH311	NOAA CAMEO Chemicals - Calcium Oxide reactivity data
+https://www.cdc.gov/carbon-monoxide/about/index.html	CDC - Carbon Monoxide Poisoning basics
+https://shop.iccsafe.org/media/wysiwyg/material/5110L23-Sample.pdf	ICC International Residential Code, Chapter 4 Foundations (sample) - Table R401.4.1 soil bearing, Table R403.1 footing widths
+https://up.codes/viewer/maryland/irc-2021/chapter/4/foundations	IRC 2021 Chapter 4 Foundations (UpCodes viewer) - grading, footing minimums

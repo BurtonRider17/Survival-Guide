@@ -1,0 +1,67 @@
+https://archive.org/details/FM5-426	U.S. Army FM 5-426 Carpentry (1995) - layout, foundations, framing, roofs, doors and windows
+https://archive.org/details/USArmyFM2176	U.S. Army FM 21-76 Survival Manual - Chapter 5, Shelters
+https://www.fs.usda.gov/eng/facilities/documents/build_with_logs.pdf	USDA Forest Service Misc. Pub. 579 - Building with Logs (Fickes and Groben)
+https://research.fs.usda.gov/treesearch/62200	USDA Forest Products Laboratory - Wood Handbook: Wood as an Engineering Material (FPL-GTR-282, 2021)
+https://web-media.awc.org/wp-content/uploads/2023/11/17210157/AWC_STJR2024_20231127_AWCWebsite.pdf	American Wood Council - Span Tables for Joists and Rafters (2024)
+https://publications.gc.ca/collections/collection_2014/schl-cmhc/NH17-3-2013-eng.pdf	CMHC - Canadian Wood-Frame House Construction (rev. ed.)
+https://www.nps.gov/orgs/1739/upload/preservation-brief-26-log-buildings.pdf	NPS Preservation Brief 26 - Preservation and Repair of Historic Log Buildings
+https://www.nps.gov/orgs/1739/upload/preservation-brief-19-wood-shingle-roofs.pdf	NPS Preservation Brief 19 - Repair and Replacement of Historic Wooden Shingle Roofs
+https://www.nps.gov/orgs/1739/upload/preservation-brief-04-roofing.pdf	NPS Preservation Brief 4 - Roofing for Historic Buildings
+https://www.nps.gov/orgs/1739/upload/preservation-brief-05-adobe.pdf	NPS Preservation Brief 5 - Preservation of Historic Adobe Buildings
+https://www.nps.gov/orgs/1739/upload/preservation-brief-02-repointing.pdf	NPS Preservation Brief 2 - Repointing Mortar Joints in Historic Masonry Buildings
+https://www.getty.edu/publications-reports/item/2451Z3	Getty Conservation Institute - Planning and Engineering Guidelines for the Seismic Retrofitting of Historic Adobe Structures
+https://www.cenapred.gob.mx/es/Publicaciones/archivos/291-INFOGRAFAVIVIENDASEGURA.PDF	CENAPRED (Mexico) - Guia basica para la autoconstruccion de vivienda segura
+https://www.srca.nm.gov/parts/title14/14.007.0004.html	New Mexico Earthen Building Materials Code (14.7.4 NMAC) - adobe, rammed earth
+https://ecobuildnetwork.org/wp-content/uploads/2024/12/AppendixS_SBConstruction_2015IRC.pdf	IRC Appendix S Strawbale Construction (2015 IRC text, Ecological Building Network)
+https://www.strawbuilding.org/news/3587353	California Straw Building Association - IRC strawbale appendix downloads
+https://www.proceedings.com/content/080/080513-0223open.pdf	Assessment of Hygrothermal Performance of Traditional and Insulated Cordwood Masonry (conference paper)
+https://www.engineeringforchange.org/wp-content/uploads/2016/06/Earthbag_Building-The_Tools_Tricks_and_Techniques.pdf	Earthbag Building: The Tools, Tricks and Techniques (Hunter and Kiffmeyer)
+https://calearth.org/pages/resources-for-builders	Cal-Earth Institute - SuperAdobe (earthbag) resources for builders
+https://www.homeinnovation.com/documents/Reports/Revised-Builders-Guide-to-Frost-Protected-Shallow-Foundations.pdf	HUD / NAHB Research Center - Revised Builder's Guide to Frost Protected Shallow Foundations
+https://cchrc.org/wp-content/uploads/media/PermafrostGuidebookFinal.pdf	Cold Climate Housing Research Center - Guide for Foundations on Changing Permafrost (2023)
+https://www.energy.gov/sites/default/files/2021-08/ES-Passive%20Solar%20design_081321.pdf	U.S. DOE Energy Saver - Consumer Guide to Passive Solar Home Design
+https://www.energy.gov/sites/default/files/2021-11/ES-HomeInsulation%5F081721E-a.pdf	U.S. DOE Energy Saver - Consumer Guide to Home Insulation (R-values by zone)
+https://www.energystar.gov/saveathome/seal_insulate/identify-problems-you-want-fix/diy-checks-inspections/insulation-r-values	ENERGY STAR - Recommended Home Insulation R-Values
+https://www.energy.gov/eere/buildings/building-america-climate-specific-guidance	U.S. DOE Building America - Climate-Specific Guidance
+https://buildingscience.com/documents/digests/bsd-106-understanding-vapor-barriers	Building Science Corporation BSD-106 - Understanding Vapor Barriers
+https://buildingscience.com/documents/digests/bsd-013-rain-control-in-buildings	Building Science Corporation BSD-013 - Rain Control in Buildings
+https://buildingscience.com/documents/insights/bsi-001-the-perfect-wall	Building Science Corporation BSI-001 - The Perfect Wall
+https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home	U.S. EPA - A Brief Guide to Mold, Moisture and Your Home
+https://www.epa.gov/mold/mold-cleanup-your-home	U.S. EPA - Mold Cleanup in Your Home
+https://www.epa.gov/radon/health-risk-radon	U.S. EPA - Health Risk of Radon
+https://www.epa.gov/asbestos/protect-your-family-exposures-asbestos	U.S. EPA - Protect Your Family from Exposures to Asbestos
+https://www.epa.gov/asbestos/learn-about-asbestos	U.S. EPA - Learn About Asbestos
+https://www.atsdr.cdc.gov/asbestos/prevention/index.html	CDC / ATSDR - Preventing Asbestos Exposure
+https://www.cdc.gov/lead-prevention/prevention/index.html	CDC - Preventing Childhood Lead Poisoning (lead paint in pre-1978 homes)
+https://www.epa.gov/lead/protect-your-family-sources-lead	U.S. EPA - Protect Your Family from Sources of Lead
+https://www.epa.gov/lead/renovation-repair-and-painting-program	U.S. EPA - Lead Renovation, Repair and Painting (RRP) Program (lead-safe work practices)
+https://www.cdc.gov/hantavirus/prevention/index.html	CDC - Hantavirus Prevention (cleaning up rodent-infested buildings)
+https://www.osha.gov/logging	OSHA - Logging safety (felling, chainsaws)
+https://www.epa.gov/burnwise	U.S. EPA Burn Wise - wood stove operation and safety
+https://www.extension.umd.edu/sites/extension.umd.edu/files/publications/FS-940_Considerations_for_wood_pellet_stove_installation.pdf	University of Maryland Extension FS-940 - Considerations for Wood or Pellet Stove Installation
+https://www.nfpa.org/codes-and-standards/nfpa-211-standard-development/211	NFPA 211 - Standard for Chimneys, Fireplaces, Vents and Solid Fuel-Burning Appliances
+https://www.csia.org/	Chimney Safety Institute of America - chimney inspection and sweeping
+https://permies.com/t/98054/a/68946/untitled.pdf?download_attachment=true	Oregon Alternative Technology Advisory Committee - rocket mass heater evaluation (code status, safety)
+https://www.epa.gov/indoor-air-quality-iaq/carbon-monoxides-impact-indoor-air-quality	U.S. EPA - Carbon Monoxide's Impact on Indoor Air Quality
+https://www.nfpa.org/education-and-research/home-fire-safety/candles	NFPA - Candle fire safety
+https://www.ready.gov/home-fires	Ready.gov - Home Fires
+https://www.uaf.edu/ces/publications/database/housing/outhouses-alaska.php	University of Alaska Fairbanks Cooperative Extension - Outhouses in Alaska
+https://humanurehandbook.com/	The Humanure Handbook (J. Jenkins) - composting toilets
+https://www.epa.gov/septic	U.S. EPA - Septic Systems (onsite wastewater)
+https://pubs.nmsu.edu/_m/M106/	New Mexico State University Extension M-106 - Safe Use of Household Greywater
+https://www.oregon.gov/deq/FilterPermitsDocs/GraywaterGuideHomeowners.pdf	Oregon DEQ - Reusing Graywater in Your Home (homeowner guide)
+https://extension.usu.edu/sustainability/research/graywater-systems.pdf	Utah State University Extension - Graywater Systems
+https://www.who.int/publications/i/item/9789241514705	WHO - Guidelines on Sanitation and Health (2018)
+https://www.twdb.texas.gov/publications/brochures/conservation/doc/RainwaterHarvestingManual_3rdedition.pdf	Texas Water Development Board - Texas Manual on Rainwater Harvesting (3rd ed.)
+https://msc.fema.gov/portal/home	FEMA Flood Map Service Center - flood zones
+https://www.fema.gov/sites/default/files/2020-08/fema499_2010_edition.pdf	FEMA P-499 - Home Builder's Guide to Coastal Construction (hurricane and flood)
+https://www.nfpa.org/firewise	NFPA Firewise USA - defensible space and home ignition zones
+https://ascehazardtool.org/	ASCE Hazard Tool - ground snow, wind and seismic loads by location
+https://www.nhc.noaa.gov/climo/	NOAA National Hurricane Center - tropical cyclone climatology
+https://www.ready.gov/earthquakes	Ready.gov - Earthquakes
+https://www.ready.gov/tornadoes	Ready.gov - Tornadoes
+https://www.ready.gov/wildfires	Ready.gov - Wildfires
+https://www.ready.gov/winter-weather	Ready.gov - Winter Weather
+https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals	NOAA NCEI - U.S. Climate Normals (temperature, precipitation, degree days)
+https://websoilsurvey.nrcs.usda.gov/app/	USDA NRCS Web Soil Survey - soil drainage and bearing on your site
+https://www.solarcookers.org/	Solar Cookers International - solar cooking information

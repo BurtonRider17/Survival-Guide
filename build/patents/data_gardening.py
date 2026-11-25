@@ -1,0 +1,32 @@
+def P(num,h,fig,tier,grant,inv,title,teaches,figs,status="Expired",**k):
+    d=dict(num=num,hash=h,fig=fig,tier=tier,grant=grant,inv=inv,title=title,teaches=teaches,figs=figs,status=status); d.update(k); return d
+INTRO = "<p>Planting, weeding and season-extending tools were patented by the thousand in the 1800s. These drawings show hand planters and seed sowers a person can make, a hot-bed frame for starting seedlings early, and the horse-drawn hoes, ploughs and broadcast sowers for larger fields. Tier C holds the grain-harvest machines that need a foundry and machine shop: McCormick's reaper and the Pitts thresher-separator. Use with the planting, soil and cold-frame chapters of this guide.</p>"
+UNPATENTED = ["The <b>digging stick, hoe, spade and simple ard plough</b> are ancient and free to copy; so are <b>crop rotation, composting and seed saving</b>."]
+PATENTS = [
+P("US17362","d0/4c/69/f4f0f7ae55b674/US17362.pdf","3d/67/b3/5aee4633da4b68/US17362-drawings-page-1.png","A","1857-05-26","Silas P. Briggs","Improved hand seed-planter",
+  "A hand seed planter: jab it into the soil and a metered charge of seed drops into the hole, so one person can plant a row standing up without stooping.","Sectional view of the planter body, seed box and dropping slide"),
+P("US399938","8a/a7/4d/a4317aed2707d6/US399938.pdf","04/a0/86/5340b34e3f6387/US399938-drawings-page-1.png","A","1889-03-19","James E. Shaw","Hand seed-planter",
+  "Another simple hand planter design from South Carolina, showing a different seed-metering mechanism that a woodworker can copy.","Elevation and section of the planter and seed slide"),
+P("US683571","52/30/0b/9346ae33fd14af/US683571.pdf","e3/2a/85/e1796f6d9c7b37/US683571-drawings-page-1.png","A","1901-10-01","Milford A. Nelson","Broadcast hand seed-sower",
+  "A simple broadcast seed sower with a sectional sowing spout, for spreading grain, grass and cover-crop seed evenly by hand.","Sower body and sectional spout"),
+P("US81881","27/69/e7/2db7d37d723297/US81881.pdf","19/7b/73/030ef783c0ca1b/US81881-drawings-page-1.png","A","1868-09-08","Matthew Cridge","Improved hot-bed sash and frame",
+  "A glazed sash and frame for a hot bed &mdash; the glass-covered box (heated by rotting manure below, or just the sun) used to start seedlings weeks before the last frost.","Fig. 1 plan of the sash; Figs. 2&ndash;3 sections through the frame and glazing bars"),
+P("US367835","40/09/47/de6130ab8ffbd0/US367835.pdf","6f/9e/6b/97bf26e75d82e3/US367835-drawings-page-1.png","B","1887-08-09","Charles E. Nash","Wheel-hoe",
+  "A horse-drawn wheel hoe: hoe blades carried between two wheels that cut weeds and hill soil up on both sides of a row at once.","Plan and side view of frame, wheels and hoe blades"),
+P("US772934","9b/17/5f/de35b98582d3cf/US772934.pdf","33/64/ea/340d516aee535a/US772934-drawings-page-1.png","B","1904-10-25","Robert W. Hall","Double-shovel garden-plow",
+  "A garden plough with two shovels on an adjustable frame for cultivating between rows; pushed by hand or pulled by a small animal.","Side and plan views of frame, handles and shovels"),
+P("US2515","3a/f7/96/7490fb9539fae1/US2515.pdf","18/4f/e0/8beb3e9e37fbbe/US2515-drawings-page-1.png","B","1842-03-08","C. K. Bartlett","Improvement in the construction of plows for prairie lands",
+  "A plough for breaking prairie sod, framed on a long oak plank (6&ndash;12 ft) &mdash; shows how settlers built heavy breaking ploughs largely from timber with iron only at the cutting parts.","Plough frame, beam and share"),
+P("US4385","01/8f/18/40b62eb2c6903f/US4385.pdf","40/2c/59/f278e6c2cce1de/US4385-drawings-page-1.png","B","1846-02-20","William J. Jones &amp; H. C. Smith","Improvement in machines for sowing grain, &amp;c., broadcast",
+  "A wheeled broadcast sower that spreads grain, seed or manure evenly by a scattering mechanism driven from the wheels.","Machine elevation and the scattering mechanism"),
+P("US5335","3f/ef/33/7500cbd1e7dd9c/US5335.pdf","9b/00/25/4dfef0d40af72b/US5335-drawings-page-1.png","C","1847-10-23","Cyrus H. McCormick (Steele's Tavern, Virginia)","Improvement in reaping-machines",
+  "McCormick's improved horse-drawn reaper with a vibrating sickle. He moved the driving wheel back so less of the machine's weight hung behind it, which had strained the horses and the frame, and moved the crank gearing so sand, dirt and straw would not clog it. It is a reference for repairing or rebuilding a horse-drawn mower or reaper.","Fig. 1 perspective; Fig. 2 plan; Fig. 3 side elevation"),
+P("US542","cd/45/e6/84038d96a7e68d/US542.pdf","e9/45/bf/085bbbe8b43bb0/US542-drawings-page-2.png","C","1837-12-29","John A. Pitts &amp; Hiram A. Pitts (Winthrop, Maine)","Machine for threshing and cleaning grain",
+  "The Pitts brothers' machine for separating grain from straw and chaff as it leaves the threshing cylinder. Sheet-iron guard slats take the force of the straw and grain, and a specially built endless apron carries it away. The drawing shows the threshing bed (concave), the guard slats and the endless apron.","Fig. 1 longitudinal section; Fig. 3 perspective; Figs. 2&amp;4 details"),
+P("US1354","13/93/4b/0b670291585b20/US1354.pdf","33/f7/db/bf63c16c6533f3/US1354-drawings-page-1.png","B","1839-09-30","Alfred Ervin","Fanning-mill (grain cleaner)",
+  "A hand-cranked fanning mill for cleaning grain. The body is built like the common wheat fan. Grain runs from a hopper with a slide (to set the flow) onto a single flat screen, which hangs from cords or chains and is shaken sideways by cranks, levers and connecting rods. A board can be laid over the screen to separate weed seed ('cheat') from good grain. Read with 5.3 Storing seed and cleaning it.","Fig. 1 the whole machine; Fig. 2 the board for separating cheat"),
+P("US657987","c7/49/33/b055d57815b785/US657987.pdf","8b/67/73/0268655c0fdf9a/US657987-drawings-page-1.png","C","1900-09-18","Judson A. Kramer","Greenhouse construction",
+  "A commercial greenhouse framed on metal tube wall-posts, with clamps that attach nailing-posts and rafter-supporting caps. The patent aims to make greenhouses quicker to put up, let in more light, and allow the bench height to be adjusted. Sections of equal span can be joined side by side. For small home-built versions see 6.2 Cold frames and hot beds.","Fig. 1 the greenhouse; Fig. 2 frame of one end and a bench"),
+]
+for p in PATENTS:
+    if p["num"] in ("US683571","US81881"): p["visual"]=True

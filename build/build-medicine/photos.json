@@ -1,0 +1,121 @@
+{
+ "blackwillow": {
+  "sci": "Salix nigra",
+  "file": "Salix_nigra_Morton_180-88-3.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Salix_nigra_Morton_180-88-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Salix_nigra_Morton_180-88-3.jpg",
+  "license": "CC BY-SA 2.5",
+  "artist": "Bruce Marlin",
+  "desc": "Black Willow, Salix nigra. Morton Arboretum accession 180-88-3. This specimen has been vetted by a certified arborist at the arboreum.",
+  "path": "/workspace/survival-info/build-medicine/img/blackwillow.jpg"
+ },
+ "whitewillow": {
+  "sci": "Salix alba",
+  "file": "Salix_alba_leaves.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Salix_alba_leaves.jpg/960px-Salix_alba_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "MPF",
+  "desc": "Salix alba leaves, Jesmond Vale, Newcastle, Northumberland",
+  "path": "/workspace/survival-info/build-medicine/img/whitewillow.jpg"
+ },
+ "feverfew": {
+  "sci": "Tanacetum parthenium",
+  "file": "Feverfew.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Feverfew.jpg",
+  "license": "CC BY 2.5",
+  "artist": "Vsion (Wikimedia Commons)",
+  "desc": "",
+  "path": "/workspace/survival-info/build-medicine/img/feverfew.jpg"
+ },
+ "ginger": {
+  "sci": "Zingiber officinale",
+  "file": "Zingiber officinale fresh rhizome.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Zingiber_officinale_fresh_rhizome.JPG",
+  "license": "CC BY-SA 3.0",
+  "artist": "Olli Salmela (Dacnoh)",
+  "desc": "Ginger (Zingiber officinale) fresh rhizome.",
+  "path": "/workspace/survival-info/build-medicine/img/ginger.jpg"
+ },
+ "cranberry": {
+  "sci": "Vaccinium macrocarpon",
+  "file": "Cranberry_bog.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cranberry_bog.jpg/960px-Cranberry_bog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cranberry_bog.jpg",
+  "license": "Public domain",
+  "artist": "Photo by Keith Weller",
+  "desc": "A coastal Washington cranberry bog",
+  "path": "/workspace/survival-info/build-medicine/img/cranberry.jpg"
+ },
+ "wildginger": {
+  "sci": "Asarum canadense",
+  "file": "Asarum_canadense_-_Wild_Ginger.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Asarum_canadense_-_Wild_Ginger.jpg/960px-Asarum_canadense_-_Wild_Ginger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Asarum_canadense_-_Wild_Ginger.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Fritzflohrreynolds",
+  "desc": "Photograph of Asarum canadense in flower. This a native plant growing wild along the Potomac Heritage Trail in Fairfax county, Virginia, USA. This species is a member of the Aristolochiaceae family.",
+  "path": "/workspace/survival-info/build-medicine/img/wildginger.jpg"
+ },
+ "capsicum": {
+  "sci": "Capsicum annuum",
+  "file": "-2019-09-15 Cayenne pepper (Capsicum annuum), Trimingham (1).JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:-2019-09-15_Cayenne_pepper_(Capsicum_annuum),_Trimingham_(1).JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Kolforn (Wikimedia Commons)",
+  "desc": "Cayenne pepper (Capsicum annuum) plant grown in a greenhouse located in the village of Trimingham, Norfolk, England.",
+  "path": "/workspace/survival-info/build-medicine/img/capsicum.jpg"
+ },
+ "penicillium": {
+  "sci": "Penicillium",
+  "file": "Penicillium_Pengo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Penicillium_Pengo.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Pengo (Wikimedia Commons)",
+  "desc": "",
+  "path": "/workspace/survival-info/build-medicine/img/penicillium.jpg"
+ },
+ "redelder": {
+  "sci": "Sambucus racemosa",
+  "file": "Sambucus_racemosa_(1).jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Sambucus_racemosa_%281%29.jpg/960px-Sambucus_racemosa_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Sambucus_racemosa_(1).jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Algirdas at Lithuanian Wikipedia",
+  "desc": "lt:Raudonuogis \u0161eivamedis (Sambucus racemosa)\n\u0160eima. lt:\u016aksmininiai (Adoxaceae)\n\nFoto: Algirdas, 2006 m. gegu\u017e\u0117s 20 d., Lietuva",
+  "path": "/workspace/survival-info/build-medicine/img/redelder.jpg"
+ },
+ "elderberry": {
+  "file": "Elderberryfruit5081.JPG",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/16/Elderberryfruit5081.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "page": "https://commons.wikimedia.org/wiki/File:Elderberryfruit5081.JPG",
+  "license": "CC BY-SA 3.0",
+  "artist": "Pollinator (Wikimedia Commons)",
+  "desc": "Photograph showing the fruiting/berry portion of an Elderberry(Sambucus) plant.",
+  "cats": "GFDL|License migration completed|Sambucus canadensis (fruit)",
+  "sci": "Sambucus canadensis (S. nigra ssp. canadensis)",
+  "path": "/workspace/survival-info/build-medicine/img/elderberry.jpg"
+ },
+ "waterhemlock": {
+  "sci": "Cicuta maculata",
+  "file": "Cicuta_maculata.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cicuta_maculata.jpg/960px-Cicuta_maculata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Cicuta_maculata.jpg",
+  "license": "Public domain",
+  "artist": "Williammehlhorn (Wikimedia Commons)",
+  "desc": "Cicuta Maculata",
+  "cats": "Cicuta maculata|PD-user",
+  "path": "/workspace/survival-info/build-medicine/img/waterhemlock.jpg"
+ },
+ "poisonhemlock": {
+  "sci": "Conium maculatum",
+  "file": "Conium.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Conium.jpg/960px-Conium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "page": "https://commons.wikimedia.org/wiki/File:Conium.jpg",
+  "license": "Public domain",
+  "artist": "William &amp; Wilma Follette, USDA-NRCS PLANTS Database",
+  "desc": "",
+  "cats": "Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|PD USDA|Files moved to Commons by BetacommandBot|Conium maculatum (cultivated)",
+  "path": "/workspace/survival-info/build-medicine/img/poisonhemlock.jpg"
+ }
+}
