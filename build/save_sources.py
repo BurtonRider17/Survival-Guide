@@ -18,6 +18,13 @@ CHS = Path(
     "/tmp/browsers/chrome-headless-shell/linux-157.0.8103.78/"
     "chrome-headless-shell-linux64/chrome-headless-shell"
 )
+import glob as _glob
+if not CHS.exists():  # any installed chrome-headless-shell (npx @puppeteer/browsers install chrome-headless-shell@stable --path /tmp/browsers)
+    _c = sorted(_glob.glob("/tmp/browsers/chrome-headless-shell/*/chrome-headless-shell-linux64/chrome-headless-shell"))
+    if _c: CHS = Path(_c[-1])
+if not CHS.exists():  # Nov 25 2026: box refreshed, headless shell gone -> use system Chrome in headless mode
+    CHS = Path("/usr/bin/google-chrome")
+CHS_EXTRA = ["--headless"] if CHS.name == "google-chrome" else []
 PROFILE = Path("/tmp/chs-profile-run")
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -181,16 +188,17 @@ def chrome_print(url: str, dest: Path, timeout: int) -> tuple[bool, str]:
     tmp = dest.with_suffix(dest.suffix + ".part.pdf")
     if tmp.exists():
         tmp.unlink()
-    PROFILE.mkdir(parents=True, exist_ok=True)
+    import tempfile
+    prof = Path(tempfile.mkdtemp(prefix="chs-prof-"))  # fresh profile per page avoids lock stalls
     cmd = [
-        str(CHS),
+        str(CHS), *CHS_EXTRA,
         "--no-sandbox",
         "--disable-gpu",
         "--disable-dev-shm-usage",
         "--disable-extensions",
         "--hide-scrollbars",
         "--window-size=1280,1600",
-        f"--user-data-dir={PROFILE}",
+        f"--user-data-dir={prof}",
         f"--user-agent={UA}",
         "--no-pdf-header-footer",
         "--virtual-time-budget=15000",

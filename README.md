@@ -2,9 +2,9 @@
 
 A knowledge-retention survival library for North America. These are printable, long-term, grid-down guides meant to keep practical skills available if industrial infrastructure were lost. The series covers the United States (including Puerto Rico), Canada, Mexico, and, where it is relevant, Central America and Cuba.
 
-This repository publishes **19 guides** (816 pages) and a 12-page series index. Start with [`guides/Survival_Info_Index.pdf`](guides/Survival_Info_Index.pdf). Each guide is a single combined PDF in [`guides/`](guides/).
+This repository publishes **20 guides** (875 pages) and a 12-page series index. Start with [`guides/Survival_Info_Index.pdf`](guides/Survival_Info_Index.pdf). Each guide is a single combined PDF in [`guides/`](guides/).
 
-The **Bunkers** volume (a directory of sites and listings) is kept offline and is not in this repository. The index PDF was last rebuilt on November 24, 2026, when that volume was still part of the set, so it still lists 20 guides and 1,039 pages and still names the Bunkers file. It does not contain site addresses or coordinates.
+One volume of the series is kept offline and is not in this repository. The index PDF here was rebuilt on November 25, 2026 as a public edition: it lists only the 20 guides published here (875 pages).
 
 ## Guides
 
@@ -29,7 +29,8 @@ The **Bunkers** volume (a directory of sites and listings) is kept offline and i
 | 17 | Livestock & Small Animals | 30 | [Survival_Info_Livestock.pdf](guides/Survival_Info_Livestock.pdf) |
 | 18 | Medicine & Remedies | 73 | [Survival_Info_Medicine.pdf](guides/Survival_Info_Medicine.pdf) |
 | 19 | Chemistry | 45 | [Survival_Info_Chemistry.pdf](guides/Survival_Info_Chemistry.pdf) |
-| | **Total** | **816** | |
+| 20 | Steel: Making & Forming | 59 | [Survival_Info_Steel.pdf](guides/Survival_Info_Steel.pdf) |
+| | **Total** | **875** | |
 | | Series index | 12 | [Survival_Info_Index.pdf](guides/Survival_Info_Index.pdf) |
 
 Most guides end with a US-patent appendix, sorted from simple hand-built devices to workshop and industrial equipment, with key drawings shown full width. All of those patents have expired. Illustrations are drawn in code as SVG; plant photographs in the Food and Medicine guides come from Wikimedia Commons and are credited in the text.
@@ -40,7 +41,7 @@ The guides do not cover explosives, weapons, chemical weapons, or controlled-sub
 
 Every source cited in a guide is saved, when the site allowed, as a PDF. Those source archives are **not stored in git**. They are attached to this repository's [Releases](https://github.com/BurtonRider17/Survival-Guide/releases) page as per-guide zip files (`Sources_<Guide>.zip`, or `Sources_<Guide>_partN.zip` when a single archive would be larger than about 23 MiB).
 
-Bunkers source zips are not published here.
+Source zips for the offline volume are not published here.
 
 ## Rebuilding
 
